@@ -2,11 +2,12 @@
   "name": "first-app",
   "displayName": "first-app",
   "expo": {
-    "name": "first-app",
-    "slug": "first-app",
+    "name": "ShoppingList",
+    "slug": "shoppinglist",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   }
 }
